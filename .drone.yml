@@ -8,8 +8,6 @@ steps:
   commands:
   - go build
   - go test
-  
-DRONE_RUNNER_LABELS=foo:bar,baz:qux
 
 node:
   keyA: valueA
