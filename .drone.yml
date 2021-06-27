@@ -10,5 +10,5 @@ steps:
   - go test
 
 node:
-  keyA: valueA
-  keyB: valueB
+  f00: bar
+  baz: qux
